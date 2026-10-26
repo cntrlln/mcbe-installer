@@ -1,7 +1,6 @@
 # Minecraft Installer
 
-Установщик Minecraft Bedrock (UWP) для Windows 10/11 x64 в стиле
-[1.16.100-installer](https://github.com/qcountel/1.16.100-installer): wxWidgets, шрифт Monocraft,
+Установщик Minecraft Bedrock (UWP) для Windows 10/11 x64: wxWidgets, шрифт Monocraft,
 вкладки, «каменные» кнопки и полосы прогресса.
 
 Устанавливается только **Minecraft 1.16.100.4**. Кнопка с корзиной рядом с версией удаляет её:
